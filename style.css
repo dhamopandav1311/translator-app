@@ -1,0 +1,11 @@
+textarea{
+    padding: 1rem;
+    width: 500px;
+    height: 200px;
+    /* border: none; */
+}
+
+.translation{
+    margin: auto;
+    padding: 1vh;
+}
