@@ -42,7 +42,6 @@ body, html {
     width: 500px;
     height: 200px;
     border: black white 2px;
-    /* border: rgb(61, 61, 133); */
     border-radius: 5px;
     background: rgb(233, 233, 80);
     font-size: 20px;
